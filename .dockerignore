@@ -1,0 +1,3 @@
+# flyctl launch added from .gitignore
+**/__debug_bin**
+fly.toml
