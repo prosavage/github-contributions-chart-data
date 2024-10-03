@@ -4,7 +4,7 @@
 #
 
 app = 'gh-contributions-chart-data'
-primary_region = 'lax'
+primary_region = 'iad'
 
 [build]
   [build.args]
@@ -22,6 +22,6 @@ primary_region = 'lax'
   processes = ['app']
 
 [[vm]]
-  memory = '512mb'
+  memory = '256mb'
   cpu_kind = 'shared'
   cpus = 1
