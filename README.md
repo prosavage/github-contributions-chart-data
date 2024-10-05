@@ -1,7 +1,7 @@
 # Github Contributions Chart Data
 This is a simple program that scrapes the Github contributions chart data from the user's profile page and returns it in JSON format.
 
-You can welcome to use my hosted version: `https://gh-contributions-chart-data.fly.dev/contributions/<github-username>`
+You are welcome to use my hosted version: `https://gh-contributions-chart-data.fly.dev/contributions/<github-username>`
 
 Data is cached for 1 hour.
 
